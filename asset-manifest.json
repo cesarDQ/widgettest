@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.f7566028.js",
-    "index.html": "/index.html",
-    "main.f7566028.js.map": "/static/js/main.f7566028.js.map"
+    "main.js": "/cesarDQ/widgettest/static/js/main.f7566028.js",
+    "index.html": "/cesarDQ/widgettest/index.html",
+    "main.f7566028.js.map": "/cesarDQ/widgettest/static/js/main.f7566028.js.map"
   },
   "entrypoints": [
     "static/js/main.f7566028.js"
