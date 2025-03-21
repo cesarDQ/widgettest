@@ -2,7 +2,7 @@
   "name": "widgettest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/widgettest/",
+  "homepage": "https://cesardq.github.io/widgettest",
   "dependencies": {
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
