@@ -6,7 +6,7 @@ function App() {
 
     <Box display="flex" flexDirection="column" height="100%">
       <Box p={4} fontSize="2rem">
-        Checklist
+        Widget
       </Box>
       <Box flex="1 1" p={4}>
         <Checklist />
